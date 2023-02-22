@@ -16,5 +16,6 @@ This project uses
 
 ## Running the application
 
+From the root folder
 - Run `npm install` to install the dependencies
 - Run `npm start` to run the server
